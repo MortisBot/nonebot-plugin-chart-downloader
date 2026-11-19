@@ -18,6 +18,7 @@ __plugin_meta__ = PluginMetadata(
         "多结果时直接回复序号选择。"
     ),
     type="application",
+    homepage="https://github.com/MortisBot/nonebot-plugin-chart-downloader",
     supported_adapters={"~onebot.v11"},
 )
 
